@@ -3,5 +3,5 @@
 ### Technical! 📱 📱 📱 
   - OpenCV
   - Pillow
-  - scikit learn
+  - Scikit learn
   
